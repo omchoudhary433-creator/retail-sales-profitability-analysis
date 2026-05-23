@@ -26,6 +26,9 @@ Retail businesses often face challenges such as:
 
 This project aims to solve these problems through **data-driven analytics** and business intelligence.
 
+## Datset for make project
+messy_retail_dtaset.xlsx
+
 ## Files Included
 - cleaned_sales_data.csv → Cleaned retail sales dataset
 - cleaned sql update retail_project.sql → SQL queries for sales & profitability analysis
