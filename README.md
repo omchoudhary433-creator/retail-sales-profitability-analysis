@@ -1,4 +1,4 @@
-# retail-sales-profitability-analysis
+# retail-sales-profitability-analysiS
 End-to-end retail data analytics project using Excel, SQL, and Power BI to analyze sales performance, identify loss-making SKUs, optimize pricing strategy, and improve profitability.
 
 # 📊 Retail Sales Profitability Analysis
